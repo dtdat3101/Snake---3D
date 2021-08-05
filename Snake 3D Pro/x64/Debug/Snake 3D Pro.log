@@ -1,0 +1,54 @@
+﻿  Main.cpp
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(12,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(97,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(97,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(97,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(98,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(98,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(98,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(99,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(99,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(99,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(111,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(111,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(111,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(112,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(112,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(112,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(113,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(113,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(113,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(114,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(114,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(114,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(129,30): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(129,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(129,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(129,36): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(129,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(129,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(135,30): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(135,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(135,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(135,36): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(135,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(135,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(167,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(167,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(190,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(284,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(287,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(288,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(381,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(389,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(391,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(391,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(392,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(392,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(393,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(393,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(394,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\Main.cpp(394,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(40): warning C4715: 'sinn': not all control paths return a value
+C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\Snake 3D Pro\draw.h(50): warning C4715: 'coss': not all control paths return a value
+  Snake 3D Pro.vcxproj -> C:\Users\dotie\OneDrive\Desktop\New folder\Snake 3D Pro\Snake 3D Pro\x64\Debug\Snake 3D Pro.exe
