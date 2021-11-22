@@ -7,4 +7,4 @@ Sử dụng thư viện OpenGL để mô phỏng lại trò chơi rắn săn m�
 # Yêu cầu
 - Game dễ chơi, giao diện trực quan dễ sử dụng
 - Game thiết kế có ứng dụng thư viện OpenGL
-
+hi
